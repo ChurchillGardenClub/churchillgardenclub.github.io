@@ -1,8 +1,5 @@
 #!/bin/bash
 
-
-
-
 echo "What would you like this blog post to be titled?"
 
 read title
@@ -22,5 +19,3 @@ rm "${post_path}-e"
 dt=$(date +"%Y-%m-%d %H:%M:%S %z")
 sed -Ei -e "s/{DATE}/$dt/g" $post_path
 rm "${post_path}-e"
-
-subl ../

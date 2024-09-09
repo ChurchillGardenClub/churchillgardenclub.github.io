@@ -2,7 +2,8 @@
 layout: post
 title:  "Getting Rid of Wasps"
 date:   2024-09-09 16:44:05 -0400
-categories: category1 category2
+excerpt_image: /assets/images/wasp_image.jpg
+categories: category1 category
 tags: tag1 tag2
 ---
 

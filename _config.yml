@@ -32,6 +32,10 @@ copyright: "Copyleft (cleft) 2024-{currentYear} Churchill Garden Club"
 
 yat:
   date_format: "%b %d, %Y"
+
+exclude:
+  - useful_scripts/*
+  - README
 # If you want more debug log, you can set true
 # debug: false
 
@@ -215,7 +219,8 @@ header_pages:
 #   follow_site_theme: true
 
 # Build settings
-theme: jekyll-theme-yat
+# theme: jekyll-theme-yat
+remote_theme: "jeffreytse/jekyll-theme-yat"
 # highlighter: none
 markdown: kramdown
 kramdown:

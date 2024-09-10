@@ -5,6 +5,6 @@
 layout: home
 title: Home
 heading: "Welcome to the Churchill Garden Club!"
-subheading: "This is a source for all of your gardening and home needs."
+subheading: "Enjoy these curated resources for all of your gardening and home needs."
 banner: "/assets/images/banners/home.jpeg"
 ---

@@ -8,4 +8,4 @@ categories: Lawn
 
 These tips will help you overseed your lawn to create a more lush, green lawn.
 You Should Overseed Your Lawn Right Now For Better Grass Next Season—Here's How:
-<https://search.app/SwZTmqq7bw9NssMk7>
+[How to overseed your lawn](https://search.app/SwZTmqq7bw9NssMk7)

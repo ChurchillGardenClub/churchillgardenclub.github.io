@@ -14,6 +14,6 @@ These tips will help you overseed your lawn to create a more lush, green lawn.
 
 As the fall season begins, it's time to take care of your lawn.
 
-# You Should Overseed Your Lawn Right Now For Better Grass Next Season
+# You Should Overseed Your Lawn Right Now For Better Grass Next Season.
 
 Here's How: [How to overseed your lawn](https://search.app/SwZTmqq7bw9NssMk7)

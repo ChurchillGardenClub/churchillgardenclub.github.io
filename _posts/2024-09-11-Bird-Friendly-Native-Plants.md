@@ -3,7 +3,7 @@ layout: post
 title:  "Bird Friendly Native Plants"
 date:   2024-09-11 11:44:18 -0400
 excerpt_image: /assets/images/Bird_with_flowers.jpeg
-categories: Plants
+categories: Plants Birds
 tags: Birds
 ---
 

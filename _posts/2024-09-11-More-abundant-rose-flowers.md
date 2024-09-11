@@ -4,7 +4,7 @@ title:  "More abundant rose flowers"
 date:   2024-09-11 12:27:27 -0400
 excerpt_image: /assets/images/roses.jpeg
 categories: Plants Flowers
-tags: Roses
+tags: Roses Slugs
 ---
 
 <img src="/assets/images/roses.jpeg">

@@ -9,7 +9,7 @@ tags: Roses Slugs
 
 <img src="/assets/images/roses.jpeg">
 
-## Roses produce ‘bigger blooms’ if 1 bathroom item is added to their soil - also kills slugs
+## Roses produce ‘bigger blooms’ if 1 bathroom item is added to their soil - also kills slugs.
 
 Gardeners will get more abundant rose flowers and also keep slugs away if they add one tablespoon of a natural ingredient to their garden soil.
 

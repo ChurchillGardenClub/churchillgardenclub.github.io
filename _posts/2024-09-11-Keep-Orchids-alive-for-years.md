@@ -9,7 +9,7 @@ tags: Flowers Orchids
 
 <img src="/assets/images/orchids.jpeg">
 
-## Keep orchids 'alive for 20 years' with 1 simple change that will see the plants 'thrive'
+## Keep orchids 'alive for 20 years' with 1 simple change that will see the plants 'thrive'.
 
 Orchids can wither and die for a multitude of reasons including overwatering, under-watering, a lack of sunlight and too much sunlight.
 

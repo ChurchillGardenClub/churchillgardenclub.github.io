@@ -9,7 +9,7 @@ tags: Birds
 
 <img src="/assets/images/Bird_with_flowers.jpeg">
 
-## Find Bird-Friendly Native Plants with Audubon
+## Find Bird-Friendly Native Plants with Audubon.
 
 Whether you’re planting in your yard, on a windowsill, or in a public space, you can help create more bird-friendly habitats with native plants. Find the best plants for your area (and where to get them).
 

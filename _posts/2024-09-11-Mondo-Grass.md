@@ -9,7 +9,7 @@ tags: Grass Ground_Cover
 
 <img src="/assets/images/Mondograss.jpeg">
 
-## Cover Ugly Tree Roots With An Easy-To-Grow Landscaping Stunner
+## Cover Ugly Tree Roots With An Easy-To-Grow Landscaping Stunner.
 
 Every yard needs a statuesque shade tree to offer a cool place to rest, relax, or gather on a hot, sunny summer day.
 

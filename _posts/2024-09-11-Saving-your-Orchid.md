@@ -4,7 +4,7 @@ title:  "Saving your Orchid"
 date:   2024-09-11 12:44:35 -0400
 excerpt_image: /assets/images/healthy_orchid.jpeg
 categories: Flowers
-tags: Orchids
+tags: Flowers Orchids
 ---
 
 <img src="/assets/images/healthy_orchid.jpeg">

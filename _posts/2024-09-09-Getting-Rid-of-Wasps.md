@@ -4,7 +4,7 @@ title:  "Getting Rid of Wasps"
 date:   2024-09-09 16:44:05 -0400
 excerpt_image: /assets/images/wasp.jpeg
 categories: pests
-tags: wasps
+tags: wasps pests
 ---
 
 <img src="/assets/images/wasp.jpeg">

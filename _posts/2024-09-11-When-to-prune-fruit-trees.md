@@ -9,7 +9,7 @@ tags: Trees Fruit
 
 <img src="/assets/images/fruit_tree.jpeg">
 
-## You Should Prune Your Fruit Trees Now for Better Harvests Next Year
+## You Should Prune Your Fruit Trees Now for Better Harvests Next Year.
 
 Learn when to prune fruit trees and when to steer clear of the shears to see the most vigorous growth and best crop harvests.
 

@@ -9,7 +9,7 @@ tags: Birds Goldfinches
 
 <img src="/assets/images/goldfinches.jpeg">
 
-## Provide Year-Round Food And Shelter For Goldfinches By Adding These Trees
+## Provide Year-Round Food And Shelter For Goldfinches By Adding These Trees.
 
 Goldfinches are bright, beautiful birds that can be found over a lot of North America. If you want to see more of them in your yard, try planting these trees.
 

@@ -4,7 +4,7 @@ title:  "Better growing Piece Lilies"
 date:   2024-09-12 15:28:18 -0400
 excerpt_image: /assets/images/piece_lilies.jpeg
 categories: Flowers
-tags: Piece_Lilie
+tags: Piece_Lilies
 ---
 
 <img src="/assets/images/piece_lilies.jpeg">

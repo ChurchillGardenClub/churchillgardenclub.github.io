@@ -3,7 +3,7 @@ layout: post
 title:  "Overseeding your lawn can help improve your lawn's health"
 date:   2024-09-10 18:06:34 -0400
 excerpt_image: /assets/images/lawn.jpeg
-categories: Lawn
+categories: Grass
 tags: Lawn
 ---
 

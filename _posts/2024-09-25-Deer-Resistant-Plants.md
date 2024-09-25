@@ -3,7 +3,8 @@ layout: post
 title:  "Deer Resistant Plants"
 date:   2024-09-25 16:38:41 -0400
 excerpt_image: /assets/images/deer.jpeg
-categories: category1 category2
+categories: Plants Pests
+tags: Deer
 ---
 
 <img src="/assets/images/deer.jpeg">

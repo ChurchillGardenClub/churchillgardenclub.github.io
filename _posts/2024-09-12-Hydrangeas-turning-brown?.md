@@ -4,7 +4,7 @@ title:  "Hydrangeas turning brown?"
 date:   2024-09-12 15:12:04 -0400
 excerpt_image: /assets/images/brown_hydrangea.jpeg
 categories: Plants Flowers
-tags: Lavender
+tags: Hydrangeas
 ---
 
 <img src="/assets/images/brown_hydrangea.jpeg">

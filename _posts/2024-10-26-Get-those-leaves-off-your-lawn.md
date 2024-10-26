@@ -4,7 +4,7 @@ title:  "Get those leaves off your lawn"
 date:   2024-10-26 13:03:07 -0400
 excerpt_image: /assets/images/grass.jpeg
 categories: Grass
-tags: Grass, Mulch
+tags: Grass Mulch
 ---
 
 <img src="/assets/images/grass.jpeg">

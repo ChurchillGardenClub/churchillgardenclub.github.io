@@ -219,8 +219,8 @@ header_pages:
 #   follow_site_theme: true
 
 # Build settings
-# theme: jekyll-theme-yat
-remote_theme: "jeffreytse/jekyll-theme-yat"
+theme: jekyll-theme-yat
+# remote_theme: "jeffreytse/jekyll-theme-yat"
 # highlighter: none
 markdown: kramdown
 kramdown:

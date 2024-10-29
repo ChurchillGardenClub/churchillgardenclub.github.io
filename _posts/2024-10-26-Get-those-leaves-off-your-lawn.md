@@ -9,7 +9,7 @@ tags: Grass Mulch
 
 <img src="/assets/images/grass.jpeg">
 
-## Composting Leaves for Garden Mulch
+## Composting Leaves for Garden Mulch.
 
 Get those leaves off your lawn and recycle them onto your flower and vegetable beds for a free nutrient boost.
 

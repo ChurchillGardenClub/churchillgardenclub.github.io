@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cleaning out TomatoPlants"
+title:  "Cleaning out Tomato Plants"
 date:   2024-11-03 17:41:33 -0500
 excerpt_image: /assets/images/tomato.jpeg
 categories: Plants

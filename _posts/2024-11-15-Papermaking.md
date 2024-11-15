@@ -3,7 +3,7 @@ layout: post
 title:  "Papermaking"
 date:   2024-11-15 09:42:01 -0500
 excerpt_image: /assets/images/paper.jpeg
-categories: Plants
+categories: Plants Tools
 tags: Papermaking
 ---
 

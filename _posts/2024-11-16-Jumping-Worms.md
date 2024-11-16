@@ -4,7 +4,7 @@ title:  "Jumping Worms"
 date:   2024-11-16 16:04:19 -0500
 excerpt_image: /assets/images/jumpingworm.jpeg
 categories: Pests
-tags: Pests Worms
+tags: Pests Worms Jumping
 ---
 
 <img src="/assets/images/jumpingworm.jpeg">

@@ -2,12 +2,12 @@
 layout: post
 title:  "Jumping Worms"
 date:   2024-11-16 16:04:19 -0500
-excerpt_image: /assets/images/jumpingworm.jpeg
+excerpt_image: /assets/images/cactus.jpeg
 categories: Pests
-tags: Pests Worms Jumping
+tags: Pests Worms
 ---
 
-<img src="/assets/images/jumpingworm.jpeg">
+<img src="/assets/images/cactus.jpeg">
 
 ## 2024 Jumping Worm Jamboree Report.
 

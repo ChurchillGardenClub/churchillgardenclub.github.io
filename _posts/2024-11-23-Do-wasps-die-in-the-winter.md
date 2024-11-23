@@ -17,4 +17,4 @@ Because wasps are pollinator insects, they are most active during the growing se
 
 But even though they tend to go dormant in the colder months of the year, they can also be a nuisance in winter.
 
-Learn how to manage them: [How to keep wasps out of your house](https://www.thespruce.com/do-wasps-die-in-the-winter-8729803)
+# Learn how to manage them: [How to keep wasps out of your house](https://www.thespruce.com/do-wasps-die-in-the-winter-8729803)

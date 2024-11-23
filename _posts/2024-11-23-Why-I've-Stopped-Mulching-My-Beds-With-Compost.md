@@ -15,4 +15,4 @@ A video exploring why I no longer mulch my garden beds over winter, and what I a
 
 I hope it provokes some food for thought!
 
-Watch now: [Is Compost the answer?](https://www.youtube.com/watch?v=xX1Kd496WjY)
+# Watch now: [Is Compost the answer?](https://www.youtube.com/watch?v=xX1Kd496WjY)
